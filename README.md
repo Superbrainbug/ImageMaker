@@ -12,7 +12,7 @@
 
 *Two buttons*
 
-    Firstly, for check if you have in your VirtualBox directory *.dd* file, if not you won't be able to convert anything
+    Firstl one is for checking if you have in your VirtualBox directory *.dd* file, if not you won't be able to convert anything
     
     Secondly, if you pass the check of first button, you'll see new created button for generating virtual image from *.dd*
     
