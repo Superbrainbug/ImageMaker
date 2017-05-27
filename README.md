@@ -2,11 +2,11 @@
 
 
 
-**Requirements**
+##**Requirements**
 
 *1. You need to have installed one of the Visual Studio versions*
 
-**How is it working**
+##**How is it working**
 
 *Two buttons*
 
@@ -14,4 +14,4 @@
     
     Secondly, if you pass the check of first button, you'll see new created button for generating virtual image from *.dd*
     
-    Wait few secs while magic is happening, and in you */Oracle/VirtualBox/* folder you'll find hardcoded *SI_image.vmdk*
+    Wait few secs while magic is happening, and in your */Oracle/VirtualBox/* folder you'll find hardcoded *SI_image.vmdk*
