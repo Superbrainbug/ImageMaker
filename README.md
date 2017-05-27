@@ -6,7 +6,7 @@
 
 *1. You need to have installed one of the Visual Studio versions*
 
-*2. You need to have installed Oracle VirtualBox
+*2. You need to have installed Oracle VirtualBox*
 
 ## **How is it working**
 
